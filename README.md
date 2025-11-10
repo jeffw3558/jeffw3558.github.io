@@ -5,6 +5,9 @@ University of California, Berkeley
 Computer Science, Economics BA
 Expected Graduation: May 2027
 
+### Related Coursework
+Data Structures and Algorithms, Structure and Interpretation of Computer Programs, Data Mining, Introduction to Artificial Intelligence, Discrete Math and Probability Theory, Principles of Data Science, Multivariable Calculus, Linear Algebra.
+
 ### Work Experience
 Software Development Intern @ Broctagon Fintech Group 
 - Built a Python-based testing framework for evaluating Amazon Bedrock LLMs (Claude) across financial NLP tasks; implemented dynamic prompt generation, structured output parsing, and automated failure logging.
