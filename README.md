@@ -28,3 +28,6 @@ SBC Strategy Consulting, Senior Consultant
 Taiwanese American Student Association, Fam Head/Treasurer
 - will be updated
 
+Sigma Nu Fraterntiy, Beta Psi Chapter 
+- will be updated
+
