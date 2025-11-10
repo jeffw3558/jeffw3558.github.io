@@ -1,4 +1,4 @@
-# Software Engineer
+# Jeffrey Wang
 
 ### Education
 University of California, Berkeley
