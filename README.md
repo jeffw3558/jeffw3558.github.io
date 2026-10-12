@@ -20,17 +20,5 @@ Software Engineering Intern @ Propulsion AI
 - Wrote a Python call function to send real-time data to language models (LLMs). Implemented dynamic request construction, robust error handling, and response parsing to ensure efficient, real-time data processing and integration into the application. 
 - Utilized Docker to containerize GROBID for consistent deployment and scalability.
   
-### Projects
-Will be updated.
 
-### Extracurricular Activities
-SBC Strategy Consulting, Senior Consultant
-- Consulted for CME Group and Adidas (Under NDA)
-- Premier student-run strategy consultancy at UC Berkeley that provides business solutions to clients of all growth stages, ranging from seed to Fortune 500 companies. 
-
-Taiwanese American Student Association, Fam Head/Treasurer
-- will be updated
-
-Sigma Nu Fraterntiy, Beta Psi Chapter 
-- will be updated
 
